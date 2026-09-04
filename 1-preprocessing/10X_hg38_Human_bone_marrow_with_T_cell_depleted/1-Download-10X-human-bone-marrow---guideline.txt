@@ -1,0 +1,5 @@
+# In Win11 WSL2 Ubuntu 22.04.05 LTS
+mkdir -p /mnt/i/scDERI_Paper/1-preprocessing/10X_hg38_Human_bone_marrow_with_T_cell_depleted/10X-human-bone-marrow/
+cd /mnt/i/scDERI_Paper/1-preprocessing/10X_hg38_Human_bone_marrow_with_T_cell_depleted/10X-human-bone-marrow/
+chmod +x 1-Download-10X-human-bone-marrow.sh
+bash 1-Download-10X-human-bone-marrow.sh

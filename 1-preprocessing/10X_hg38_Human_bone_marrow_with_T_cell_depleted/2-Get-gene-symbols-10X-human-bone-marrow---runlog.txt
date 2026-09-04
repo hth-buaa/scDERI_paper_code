@@ -1,0 +1,16 @@
+(sc_analysis) hth@DESKTOP-UEF9B9F:/mnt/i/scDERI_Paper/1-preprocessing/10X_hg38_Human_bone_marrow_with_T_cell_depleted/10X-human-bone-marrow$ python3 /mnt/i/scDERI_Paper/1-preprocessing/10X_hg38_Human_bone_marrow_with_T_cell_depleted/2-Get-gene-symbols-10X-human-bone-marrow.py
+Loading h5ad file...
+Data loaded successfully! Contains 17226 genes and 7439 cells.
+Successfully extracted 17226 gene symbols.
+Top 10 gene examples:
+1. AL627309.1
+2. AL627309.5
+3. LINC01409
+4. LINC01128
+5. LINC00115
+6. NOC2L
+7. KLHL17
+8. ISG15
+9. C1orf159
+10. AL390719.3
+Gene symbols have been saved to: /mnt/i/scDERI_Paper/1-preprocessing/10X_hg38_Human_bone_marrow_with_T_cell_depleted/10X-human-bone-marrow/bm_multiome_rna.txt.

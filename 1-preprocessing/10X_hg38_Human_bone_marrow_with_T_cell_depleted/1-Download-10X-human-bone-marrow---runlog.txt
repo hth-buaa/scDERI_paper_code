@@ -1,0 +1,302 @@
+hth@DESKTOP-UEF9B9F:/mnt/i/scDERI_Paper/1-preprocessing/10X_hg38_Human_bone_marrow_with_T_cell_depleted$ bash 1-Download-10X-human-bone-marrow.sh
+--2025-11-14 18:20:41--  https://zenodo.org/record/6383269/files/BM_CD34_Rep1_atac_fragments.tsv.gz
+Resolving zenodo.org (zenodo.org)... 188.185.43.153, 137.138.52.235, 188.185.48.75, ...
+Connecting to zenodo.org (zenodo.org)|188.185.43.153|:443... connected.
+HTTP request sent, awaiting response... 301 MOVED PERMANENTLY
+Location: /records/6383269/files/BM_CD34_Rep1_atac_fragments.tsv.gz [following]
+--2025-11-14 18:20:42--  https://zenodo.org/records/6383269/files/BM_CD34_Rep1_atac_fragments.tsv.gz
+Reusing existing connection to zenodo.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2176167205 (2.0G) [application/octet-stream]
+Saving to: ‘BM_CD34_Rep1_atac_fragments.tsv.gz’
+
+BM_CD34_Rep1_atac_fragments.t  11%[====>                                             ] 230.97M  --.-KB/s    in 2h 18m
+
+2025-11-14 20:45:58 (28.5 KB/s) - Connection closed at byte 242190464. Retrying.
+
+--2025-11-14 20:45:59--  (try: 2)  https://zenodo.org/records/6383269/files/BM_CD34_Rep1_atac_fragments.tsv.gz
+Connecting to zenodo.org (zenodo.org)|188.185.43.153|:443... connected.
+HTTP request sent, awaiting response... 206 PARTIAL_CONTENT
+Length: 2176167205 (2.0G), 1933976741 (1.8G) remaining [application/octet-stream]
+Saving to: ‘BM_CD34_Rep1_atac_fragments.tsv.gz’
+
+BM_CD34_Rep1_atac_fragments.t  11%[+++++                                             ] 237.63M  21.6KB/s    in 5m 56s
+
+2025-11-14 20:52:15 (19.2 KB/s) - Connection closed at byte 249171756. Retrying.
+
+--2025-11-14 20:52:17--  (try: 3)  https://zenodo.org/records/6383269/files/BM_CD34_Rep1_atac_fragments.tsv.gz
+Connecting to zenodo.org (zenodo.org)|188.185.43.153|:443... connected.
+HTTP request sent, awaiting response... 206 PARTIAL_CONTENT
+Length: 2176167205 (2.0G), 1926995449 (1.8G) remaining [application/octet-stream]
+Saving to: ‘BM_CD34_Rep1_atac_fragments.tsv.gz’
+
+BM_CD34_Rep1_atac_fragments.t  11%[+++++                                             ] 244.81M  17.1KB/s    in 6m 55s
+
+2025-11-14 20:59:39 (17.7 KB/s) - Connection closed at byte 256707040. Retrying.
+
+--2025-11-14 20:59:42--  (try: 4)  https://zenodo.org/records/6383269/files/BM_CD34_Rep1_atac_fragments.tsv.gz
+Connecting to zenodo.org (zenodo.org)|188.185.43.153|:443... connected.
+HTTP request sent, awaiting response... 206 PARTIAL_CONTENT
+Length: 2176167205 (2.0G), 1919460165 (1.8G) remaining [application/octet-stream]
+Saving to: ‘BM_CD34_Rep1_atac_fragments.tsv.gz’
+
+BM_CD34_Rep1_atac_fragments.t  23%[+++++=====>                                       ] 493.91M  --.-KB/s    in 1h 49m
+
+2025-11-14 22:54:48 (39.0 KB/s) - Connection closed at byte 517898728. Retrying.
+
+--2025-11-14 22:54:52--  (try: 5)  https://zenodo.org/records/6383269/files/BM_CD34_Rep1_atac_fragments.tsv.gz
+Connecting to zenodo.org (zenodo.org)|188.185.43.153|:443... connected.
+HTTP request sent, awaiting response... 206 PARTIAL_CONTENT
+Length: 2176167205 (2.0G), 1658268477 (1.5G) remaining [application/octet-stream]
+Saving to: ‘BM_CD34_Rep1_atac_fragments.tsv.gz’
+
+BM_CD34_Rep1_atac_fragments.t  27%[+++++++++++=>                                     ] 563.32M  --.-KB/s    in 28m 35s
+
+2025-11-14 23:24:53 (41.4 KB/s) - Connection closed at byte 590685388. Retrying.
+
+--2025-11-14 23:24:58--  (try: 6)  https://zenodo.org/records/6383269/files/BM_CD34_Rep1_atac_fragments.tsv.gz
+Connecting to zenodo.org (zenodo.org)|188.185.43.153|:443... connected.
+HTTP request sent, awaiting response... 206 PARTIAL_CONTENT
+Length: 2176167205 (2.0G), 1585481817 (1.5G) remaining [application/octet-stream]
+Saving to: ‘BM_CD34_Rep1_atac_fragments.tsv.gz’
+
+BM_CD34_Rep1_atac_fragments.t  27%[+++++++++++++                                     ] 571.11M  17.6KB/s    in 7m 9s
+
+2025-11-14 23:32:29 (18.6 KB/s) - Connection closed at byte 598850276. Retrying.
+
+--2025-11-14 23:32:35--  (try: 7)  https://zenodo.org/records/6383269/files/BM_CD34_Rep1_atac_fragments.tsv.gz
+Connecting to zenodo.org (zenodo.org)|188.185.43.153|:443... connected.
+HTTP request sent, awaiting response... 206 PARTIAL_CONTENT
+Length: 2176167205 (2.0G), 1577316929 (1.5G) remaining [application/octet-stream]
+Saving to: ‘BM_CD34_Rep1_atac_fragments.tsv.gz’
+
+BM_CD34_Rep1_atac_fragments.t 100%[+++++++++++++====================================>]   2.03G  7.42MB/s    in 81m 10s
+
+2025-11-15 00:57:58 (316 KB/s) - ‘BM_CD34_Rep1_atac_fragments.tsv.gz’ saved [2176167205/2176167205]
+
+--2025-11-15 00:57:58--  https://zenodo.org/record/6383269/files/BM_CD34_Rep1_atac_fragments.tsv.gz.tbi
+Resolving zenodo.org (zenodo.org)... 137.138.52.235, 188.185.43.153, 188.185.48.75, ...
+Connecting to zenodo.org (zenodo.org)|137.138.52.235|:443... connected.
+HTTP request sent, awaiting response... 301 MOVED PERMANENTLY
+Location: /records/6383269/files/BM_CD34_Rep1_atac_fragments.tsv.gz.tbi [following]
+--2025-11-15 00:57:59--  https://zenodo.org/records/6383269/files/BM_CD34_Rep1_atac_fragments.tsv.gz.tbi
+Reusing existing connection to zenodo.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1078544 (1.0M) [application/octet-stream]
+Saving to: ‘BM_CD34_Rep1_atac_fragments.tsv.gz.tbi’
+
+BM_CD34_Rep1_atac_fragments.t 100%[=================================================>]   1.03M   317KB/s    in 3.3s
+
+2025-11-15 00:58:02 (317 KB/s) - ‘BM_CD34_Rep1_atac_fragments.tsv.gz.tbi’ saved [1078544/1078544]
+
+--2025-11-15 00:58:02--  https://zenodo.org/record/6383269/files/BM_CD34_Rep1_filtered_feature_bc_matrix.h5
+Resolving zenodo.org (zenodo.org)... 188.185.48.75, 188.185.43.153, 137.138.52.235, ...
+Connecting to zenodo.org (zenodo.org)|188.185.48.75|:443... connected.
+HTTP request sent, awaiting response... 301 MOVED PERMANENTLY
+Location: /records/6383269/files/BM_CD34_Rep1_filtered_feature_bc_matrix.h5 [following]
+--2025-11-15 00:58:05--  https://zenodo.org/records/6383269/files/BM_CD34_Rep1_filtered_feature_bc_matrix.h5
+Reusing existing connection to zenodo.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 153740029 (147M) [application/octet-stream]
+Saving to: ‘BM_CD34_Rep1_filtered_feature_bc_matrix.h5’
+
+BM_CD34_Rep1_filtered_feature 100%[=================================================>] 146.62M   109KB/s    in 47m 26s
+
+2025-11-15 01:48:02 (52.8 KB/s) - ‘BM_CD34_Rep1_filtered_feature_bc_matrix.h5’ saved [153740029/153740029]
+
+--2025-11-15 01:48:02--  https://zenodo.org/record/6383269/files/BM_CD34_Rep2_atac_fragments.tsv.gz
+Resolving zenodo.org (zenodo.org)... 137.138.52.235, 188.185.48.75, 188.185.43.153, ...
+Connecting to zenodo.org (zenodo.org)|137.138.52.235|:443... connected.
+HTTP request sent, awaiting response... 301 MOVED PERMANENTLY
+Location: /records/6383269/files/BM_CD34_Rep2_atac_fragments.tsv.gz [following]
+--2025-11-15 01:48:03--  https://zenodo.org/records/6383269/files/BM_CD34_Rep2_atac_fragments.tsv.gz
+Reusing existing connection to zenodo.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2322583366 (2.2G) [application/octet-stream]
+Saving to: ‘BM_CD34_Rep2_atac_fragments.tsv.gz’
+
+BM_CD34_Rep2_atac_fragments.t 100%[=================================================>]   2.16G  10.1MB/s    in 22m 3s
+
+2025-11-15 02:11:26 (1.67 MB/s) - ‘BM_CD34_Rep2_atac_fragments.tsv.gz’ saved [2322583366/2322583366]
+
+--2025-11-15 02:11:26--  https://zenodo.org/record/6383269/files/BM_CD34_Rep2_atac_fragments.tsv.gz.tbi
+Resolving zenodo.org (zenodo.org)... 137.138.52.235, 188.185.43.153, 188.185.48.75, ...
+Connecting to zenodo.org (zenodo.org)|137.138.52.235|:443... connected.
+HTTP request sent, awaiting response... 301 MOVED PERMANENTLY
+Location: /records/6383269/files/BM_CD34_Rep2_atac_fragments.tsv.gz.tbi [following]
+--2025-11-15 02:11:27--  https://zenodo.org/records/6383269/files/BM_CD34_Rep2_atac_fragments.tsv.gz.tbi
+Reusing existing connection to zenodo.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1130071 (1.1M) [application/octet-stream]
+Saving to: ‘BM_CD34_Rep2_atac_fragments.tsv.gz.tbi’
+
+BM_CD34_Rep2_atac_fragments.t 100%[=================================================>]   1.08M   434KB/s    in 2.5s
+
+2025-11-15 02:11:30 (434 KB/s) - ‘BM_CD34_Rep2_atac_fragments.tsv.gz.tbi’ saved [1130071/1130071]
+
+--2025-11-15 02:11:30--  https://zenodo.org/record/6383269/files/BM_CD34_Rep2_filtered_feature_bc_matrix.h5
+Resolving zenodo.org (zenodo.org)... 137.138.52.235, 188.185.48.75, 188.185.43.153, ...
+Connecting to zenodo.org (zenodo.org)|137.138.52.235|:443... connected.
+HTTP request sent, awaiting response... 301 MOVED PERMANENTLY
+Location: /records/6383269/files/BM_CD34_Rep2_filtered_feature_bc_matrix.h5 [following]
+--2025-11-15 02:11:30--  https://zenodo.org/records/6383269/files/BM_CD34_Rep2_filtered_feature_bc_matrix.h5
+Reusing existing connection to zenodo.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 159204274 (152M) [application/octet-stream]
+Saving to: ‘BM_CD34_Rep2_filtered_feature_bc_matrix.h5’
+
+BM_CD34_Rep2_filtered_feature 100%[=================================================>] 151.83M  8.33MB/s    in 65s
+
+2025-11-15 02:12:41 (2.32 MB/s) - ‘BM_CD34_Rep2_filtered_feature_bc_matrix.h5’ saved [159204274/159204274]
+
+--2025-11-15 02:12:41--  https://zenodo.org/record/6383269/files/bm_multiome_atac.h5ad
+Resolving zenodo.org (zenodo.org)... 188.185.43.153, 137.138.52.235, 188.185.48.75, ...
+Connecting to zenodo.org (zenodo.org)|188.185.43.153|:443... connected.
+HTTP request sent, awaiting response... 301 MOVED PERMANENTLY
+Location: /records/6383269/files/bm_multiome_atac.h5ad [following]
+--2025-11-15 02:12:42--  https://zenodo.org/records/6383269/files/bm_multiome_atac.h5ad
+Reusing existing connection to zenodo.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1954778378 (1.8G) [application/octet-stream]
+Saving to: ‘bm_multiome_atac.h5ad’
+
+bm_multiome_atac.h5ad         100%[=================================================>]   1.82G  6.69MB/s    in 16m 55s
+
+2025-11-15 02:30:33 (1.84 MB/s) - ‘bm_multiome_atac.h5ad’ saved [1954778378/1954778378]
+
+--2025-11-15 02:30:33--  https://zenodo.org/record/6383269/files/bm_multiome_rna.h5ad
+Resolving zenodo.org (zenodo.org)... 137.138.52.235, 188.185.48.75, 188.185.43.153, ...
+Connecting to zenodo.org (zenodo.org)|137.138.52.235|:443... connected.
+HTTP request sent, awaiting response... 301 MOVED PERMANENTLY
+Location: /records/6383269/files/bm_multiome_rna.h5ad [following]
+--2025-11-15 02:30:33--  https://zenodo.org/records/6383269/files/bm_multiome_rna.h5ad
+Reusing existing connection to zenodo.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 806825197 (769M) [application/octet-stream]
+Saving to: ‘bm_multiome_rna.h5ad’
+
+bm_multiome_rna.h5ad          100%[=================================================>] 769.45M  8.47MB/s    in 1m 48s
+
+2025-11-15 02:32:27 (7.12 MB/s) - ‘bm_multiome_rna.h5ad’ saved [806825197/806825197]
+
+--2025-11-15 02:32:27--  https://zenodo.org/record/6383269/files/BM_Tcelldep_Rep1_atac_fragments.tsv.gz
+Resolving zenodo.org (zenodo.org)... 188.185.43.153, 188.185.48.75, 137.138.52.235, ...
+Connecting to zenodo.org (zenodo.org)|188.185.43.153|:443... connected.
+HTTP request sent, awaiting response... 301 MOVED PERMANENTLY
+Location: /records/6383269/files/BM_Tcelldep_Rep1_atac_fragments.tsv.gz [following]
+--2025-11-15 02:32:28--  https://zenodo.org/records/6383269/files/BM_Tcelldep_Rep1_atac_fragments.tsv.gz
+Reusing existing connection to zenodo.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2761083495 (2.6G) [application/octet-stream]
+Saving to: ‘BM_Tcelldep_Rep1_atac_fragments.tsv.gz’
+
+BM_Tcelldep_Rep1_atac_fragmen 100%[=================================================>]   2.57G  11.9MB/s    in 4m 48s
+
+2025-11-15 02:37:34 (9.14 MB/s) - ‘BM_Tcelldep_Rep1_atac_fragments.tsv.gz’ saved [2761083495/2761083495]
+
+--2025-11-15 02:37:34--  https://zenodo.org/record/6383269/files/BM_Tcelldep_Rep1_atac_fragments.tsv.gz.tbi
+Resolving zenodo.org (zenodo.org)... 188.185.48.75, 188.185.43.153, 137.138.52.235, ...
+Connecting to zenodo.org (zenodo.org)|188.185.48.75|:443... connected.
+HTTP request sent, awaiting response... 301 MOVED PERMANENTLY
+Location: /records/6383269/files/BM_Tcelldep_Rep1_atac_fragments.tsv.gz.tbi [following]
+--2025-11-15 02:37:36--  https://zenodo.org/records/6383269/files/BM_Tcelldep_Rep1_atac_fragments.tsv.gz.tbi
+Reusing existing connection to zenodo.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1353461 (1.3M) [application/octet-stream]
+Saving to: ‘BM_Tcelldep_Rep1_atac_fragments.tsv.gz.tbi’
+
+BM_Tcelldep_Rep1_atac_fragmen 100%[=================================================>]   1.29M  1.22MB/s    in 1.1s
+
+2025-11-15 02:37:38 (1.22 MB/s) - ‘BM_Tcelldep_Rep1_atac_fragments.tsv.gz.tbi’ saved [1353461/1353461]
+
+--2025-11-15 02:37:38--  https://zenodo.org/record/6383269/files/BM_Tcelldep_Rep1_filtered_feature_bc_matrix.h5
+Resolving zenodo.org (zenodo.org)... 188.185.43.153, 188.185.48.75, 137.138.52.235, ...
+Connecting to zenodo.org (zenodo.org)|188.185.43.153|:443... connected.
+HTTP request sent, awaiting response... 301 MOVED PERMANENTLY
+Location: /records/6383269/files/BM_Tcelldep_Rep1_filtered_feature_bc_matrix.h5 [following]
+--2025-11-15 02:37:38--  https://zenodo.org/records/6383269/files/BM_Tcelldep_Rep1_filtered_feature_bc_matrix.h5
+Reusing existing connection to zenodo.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 109802742 (105M) [application/octet-stream]
+Saving to: ‘BM_Tcelldep_Rep1_filtered_feature_bc_matrix.h5’
+
+BM_Tcelldep_Rep1_filtered_fea 100%[=================================================>] 104.72M  7.75MB/s    in 14s
+
+2025-11-15 02:37:55 (7.26 MB/s) - ‘BM_Tcelldep_Rep1_filtered_feature_bc_matrix.h5’ saved [109802742/109802742]
+
+--2025-11-15 02:37:55--  https://zenodo.org/record/6383269/files/BM_Tcelldep_Rep2_atac_fragments.tsv.gz
+Resolving zenodo.org (zenodo.org)... 188.185.48.75, 137.138.52.235, 188.185.43.153, ...
+Connecting to zenodo.org (zenodo.org)|188.185.48.75|:443... connected.
+HTTP request sent, awaiting response... 301 MOVED PERMANENTLY
+Location: /records/6383269/files/BM_Tcelldep_Rep2_atac_fragments.tsv.gz [following]
+--2025-11-15 02:37:56--  https://zenodo.org/records/6383269/files/BM_Tcelldep_Rep2_atac_fragments.tsv.gz
+Reusing existing connection to zenodo.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2355779418 (2.2G) [application/octet-stream]
+Saving to: ‘BM_Tcelldep_Rep2_atac_fragments.tsv.gz’
+
+BM_Tcelldep_Rep2_atac_fragmen 100%[=================================================>]   2.19G  1.39MB/s    in 34m 43s
+
+2025-11-15 03:14:47 (1.08 MB/s) - ‘BM_Tcelldep_Rep2_atac_fragments.tsv.gz’ saved [2355779418/2355779418]
+
+--2025-11-15 03:14:47--  https://zenodo.org/record/6383269/files/BM_Tcelldep_Rep2_atac_fragments.tsv.gz.tbi
+Resolving zenodo.org (zenodo.org)... 188.185.43.153, 188.185.48.75, 137.138.52.235, ...
+Connecting to zenodo.org (zenodo.org)|188.185.43.153|:443... connected.
+HTTP request sent, awaiting response... 301 MOVED PERMANENTLY
+Location: /records/6383269/files/BM_Tcelldep_Rep2_atac_fragments.tsv.gz.tbi [following]
+--2025-11-15 03:14:48--  https://zenodo.org/records/6383269/files/BM_Tcelldep_Rep2_atac_fragments.tsv.gz.tbi
+Reusing existing connection to zenodo.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1206819 (1.2M) [application/octet-stream]
+Saving to: ‘BM_Tcelldep_Rep2_atac_fragments.tsv.gz.tbi’
+
+BM_Tcelldep_Rep2_atac_fragmen 100%[=================================================>]   1.15M   413KB/s    in 2.9s
+
+2025-11-15 03:14:51 (413 KB/s) - ‘BM_Tcelldep_Rep2_atac_fragments.tsv.gz.tbi’ saved [1206819/1206819]
+
+--2025-11-15 03:14:51--  https://zenodo.org/record/6383269/files/BM_Tcelldep_Rep2_filtered_feature_bc_matrix.h5
+Resolving zenodo.org (zenodo.org)... 188.185.48.75, 137.138.52.235, 188.185.43.153, ...
+Connecting to zenodo.org (zenodo.org)|188.185.48.75|:443... connected.
+HTTP request sent, awaiting response... 301 MOVED PERMANENTLY
+Location: /records/6383269/files/BM_Tcelldep_Rep2_filtered_feature_bc_matrix.h5 [following]
+--2025-11-15 03:14:52--  https://zenodo.org/records/6383269/files/BM_Tcelldep_Rep2_filtered_feature_bc_matrix.h5
+Reusing existing connection to zenodo.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 95592886 (91M) [application/octet-stream]
+Saving to: ‘BM_Tcelldep_Rep2_filtered_feature_bc_matrix.h5’
+
+BM_Tcelldep_Rep2_filtered_fea 100%[=================================================>]  91.16M  1.54MB/s    in 74s
+
+2025-11-15 03:16:10 (1.24 MB/s) - ‘BM_Tcelldep_Rep2_filtered_feature_bc_matrix.h5’ saved [95592886/95592886]
+
+--2025-11-15 03:16:10--  https://zenodo.org/record/6383269/files/cd34_multiome_atac.h5ad
+Resolving zenodo.org (zenodo.org)... 188.185.43.153, 188.185.48.75, 137.138.52.235, ...
+Connecting to zenodo.org (zenodo.org)|188.185.43.153|:443... connected.
+HTTP request sent, awaiting response... 301 MOVED PERMANENTLY
+Location: /records/6383269/files/cd34_multiome_atac.h5ad [following]
+--2025-11-15 03:16:11--  https://zenodo.org/records/6383269/files/cd34_multiome_atac.h5ad
+Reusing existing connection to zenodo.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1437786349 (1.3G) [application/octet-stream]
+Saving to: ‘cd34_multiome_atac.h5ad’
+
+cd34_multiome_atac.h5ad       100%[=================================================>]   1.34G  9.55MB/s    in 3m 22s
+
+2025-11-15 03:19:47 (6.79 MB/s) - ‘cd34_multiome_atac.h5ad’ saved [1437786349/1437786349]
+
+--2025-11-15 03:19:47--  https://zenodo.org/record/6383269/files/cd34_multiome_rna.h5ad
+Resolving zenodo.org (zenodo.org)... 188.185.48.75, 188.185.43.153, 137.138.52.235, ...
+Connecting to zenodo.org (zenodo.org)|188.185.48.75|:443... connected.
+HTTP request sent, awaiting response... 301 MOVED PERMANENTLY
+Location: /records/6383269/files/cd34_multiome_rna.h5ad [following]
+--2025-11-15 03:19:48--  https://zenodo.org/records/6383269/files/cd34_multiome_rna.h5ad
+Reusing existing connection to zenodo.org:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 665067674 (634M) [application/octet-stream]
+Saving to: ‘cd34_multiome_rna.h5ad’
+
+cd34_multiome_rna.h5ad        100%[=================================================>] 634.26M  1.34MB/s    in 9m 54s
+
+2025-11-15 03:30:11 (1.07 MB/s) - ‘cd34_multiome_rna.h5ad’ saved [665067674/665067674]
+
+Script execution time: 32970 seconds

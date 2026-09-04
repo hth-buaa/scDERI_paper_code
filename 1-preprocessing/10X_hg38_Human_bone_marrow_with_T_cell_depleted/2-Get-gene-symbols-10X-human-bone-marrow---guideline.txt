@@ -1,0 +1,18 @@
+# In Win11 WSL2 Ubuntu 22.04.05 LTS
+
+# Navigate to the working directory
+cd /mnt/i/scDERI_Paper/1-preprocessing/10X_hg38_Human_bone_marrow_with_T_cell_depleted/10X-human-bone-marrow/
+
+# Check whether the data file exists
+ls -la *.h5ad
+
+# Create a python virtual environment
+python3 -m venv sc_analysis
+source sc_analysis/bin/activate
+
+# Install the necessary Python packages
+# pip install scanpy pandas numpy
+pip install -i https://pypi.tuna.tsinghua.edu.cn/simple scanpy pandas numpy
+
+# Run Python script
+python3 /mnt/i/scDERI_Paper/1-preprocessing/10X_hg38_Human_bone_marrow_with_T_cell_depleted/2-Get-gene-symbols-10X-human-bone-marrow.py
