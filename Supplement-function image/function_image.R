@@ -25,9 +25,9 @@ df_hill$func = factor(df_hill$func, levels = c("H1", "H2", "H3", "asymptote"))
 color_hill = c("H1" = "darkblue", "H2" = "darkgreen", "H3" = "darkorange", "asymptote" = "black")
 linetype_hill = c("H1" = "solid", "H2" = "solid", "H3" = "solid", "asymptote" = "dashed")
 legend_hill = c(
-  expression(K == 2 * "," ~ n == 2),
-  expression(K == 2 * "," ~ n == 1),
-  expression(K == 2 * "," ~ n == 0.5),
+  expression(K[H] == 2 * "," ~ n == 2),
+  expression(K[H] == 2 * "," ~ n == 1),
+  expression(K[H] == 2 * "," ~ n == 0.5),
   expression(y == 1)
 )
 
